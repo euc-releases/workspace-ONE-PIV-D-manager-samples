@@ -1,4 +1,5 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
+# Copyright 2020 VMware, Inc.
+# SPDX-License-Identifier: BSD-2-Clause
+
+# That macOS file it puts everywhere.
+.DS_Store
