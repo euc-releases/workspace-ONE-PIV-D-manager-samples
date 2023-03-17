@@ -15,7 +15,7 @@ integration samples, please read our
 to this repository must be signed as described on that page. Your signature
 certifies that you wrote the patch or have the right to pass it on as an
 open-source patch. For more detailed information, refer to
-[CONTRIBUTING.md](CONTRIBUTING_DCO.md).
+[CONTRIBUTING_DCO.md](CONTRIBUTING_DCO.md).
 
 # Legal
 -   **VMware, Inc.** 3401 Hillview Avenue Palo Alto CA 94304 USA
