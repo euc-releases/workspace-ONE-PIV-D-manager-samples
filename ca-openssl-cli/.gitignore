@@ -1,0 +1,8 @@
+# That random macOS file.
+.DS_Store
+
+# Python that was cached by importation
+__pycache__/
+
+# Default depot directory
+/cheersjim/
