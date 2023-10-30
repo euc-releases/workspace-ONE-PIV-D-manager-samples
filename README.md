@@ -5,7 +5,10 @@ Different sets of sample code will be published to this repository. At time of
 writing, the following set is available.
 
 ## Sample CTK Consumer applicatiion for iOS
-The SamplePivdTokenApp is an iOS sample application that showcases how to use keys accessed via a Persistent Token Extension by including com.apple.token in the app's entitlements file. This sample app is designed to work in conjunction with CTK Provider apps like Workspace One PIV-D Manager application to demonstrate authenticate, sign, and decrypt operations.
+The [SamplePivdTokenApp](iOSPIVDSamples/SamplePivdTokenApp) is an iOS sample application that showcases how to use keys accessed via a Persistent Token Extension by including com.apple.token in the app's entitlements file. This sample app is designed to work in conjunction with CTK Provider apps like Workspace One PIV-D Manager application to demonstrate authenticate, sign, and decrypt operations.
+
+## Certificate authority for testing purposes
+The [ca-openssl-cli](ca-openssl-cli) directory has a certificate authority based on the [OpenSSL](https://www.openssl.org/) command line called from Python. The authority can be used to generate electronic certificates for test and demonstration purposes.
 
 # Contributing
 The Workspace ONE SDK integration samples project team welcomes contributions
