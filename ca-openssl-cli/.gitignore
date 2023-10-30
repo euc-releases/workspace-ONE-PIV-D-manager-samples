@@ -1,0 +1,11 @@
+# Copyright 2023 VMware, Inc.
+# SPDX-License-Identifier: BSD-2-Clause
+
+# That random macOS file.
+.DS_Store
+
+# Python that was cached by importation
+__pycache__/
+
+# Default depot directory
+/example.com/
