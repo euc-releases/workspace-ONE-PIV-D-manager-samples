@@ -50,9 +50,3 @@ Backlog of work items to do is in the [backlog.md](backlog.md) file.
 -   KeyStore Explorer https://keystore-explorer.org/
 
     https://github.com/kaikramer/keystore-explorer/issues/422
-
-# License
-Copyright 2023 VMware, Inc. All rights reserved.  
-The Workspace ONE PIV-D Manager integration samples are licensed under a
-two-clause BSD license.  
-SPDX-License-Identifier: BSD-2-Clause

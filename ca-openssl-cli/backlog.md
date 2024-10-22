@@ -52,9 +52,3 @@ Add more prominent error messages for when openssl returns an error.
 
 See about using the ?new `openssl` `ca` command for signing and maybe CA
 creation.
-
-# License
-Copyright 2023 VMware, Inc. All rights reserved.  
-The Workspace ONE PIV-D Manager integration samples are licensed under a
-two-clause BSD license.  
-SPDX-License-Identifier: BSD-2-Clause

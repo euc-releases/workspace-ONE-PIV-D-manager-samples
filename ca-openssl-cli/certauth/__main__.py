@@ -1,6 +1,3 @@
-# Copyright 2023 VMware, Inc.
-# SPDX-License-Identifier: BSD-2-Clause
-
 # Run with Python 3
 """Script to create certificates with the openssl CLI.
 

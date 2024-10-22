@@ -1,6 +1,3 @@
-# Copyright 2023 VMware, Inc.
-# SPDX-License-Identifier: BSD-2-Clause
-
 # Run with Python 3.9 or later.
 """File in the certauth module."""
 #
